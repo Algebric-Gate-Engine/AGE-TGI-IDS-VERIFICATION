@@ -1,5 +1,10 @@
 # AGE-TGI-IDS Verification Repository
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://tsqvt.readthedocs.io/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 Cross-validated verification of the AGE-TGI-IDS quantum computing stack: algebraic gate control (AGE-TGI-2S3) combined with algebraic readout (IDS 3-rail + LO) for photonic quantum computing without cryogenics.
 
 ## Key result
